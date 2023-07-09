@@ -1,0 +1,481 @@
+INDEX,NAME,CMC,COST,RARITY,MODIFIER,TYPE,COLOR,ATK,DEF,CARD TEXT,TOPIC,#,FLAVOR TEXT,Summarization,,
+-2,"Rotmg, minecraft, lol, prison break, Breaking Bad, Better Call Saul, Inheritance, Rome, Medieval games, Adventure Quest, Swords and sandals, getting drunk, getting high, undertale, deltarune, chainsaw man, MOVIES WE WATCHED, Smiling friends, dont hug me im scared","IRL 
+TV 
+BOOK 
+ROTMG 
+UNDER 
+ANIME 
+DRG 
+MINECRAFT 
+BB 
+FRANKEN 
+PRISON BREAK
+LOL","Aether Revolt
+DayBreak
+Scars of Mirrodin
+BattleBond
+Amonkhet
+Ixalan
+CardSmith
+Zendikar Rising
+War of the Spark
+TeaTime
+Fate Reforged
+Ravnica All",Bargain tokens OR vengence tokens (ghosts),Mechanical motifs:,"food tokens, treasures, +1/+1 counters, common currency, having creatures/effects use life/tokens to feed creatures, events (creatures reacting to the number of active events, inactive events)",Keywords:,"Worth X (Sacrifice this card: create X treasure tokens)
+Costly X (As an additional cost to this spell, sacrifice X treasure tokens)","Bloodrush
+Affinity","Creatures reacting to number of events
+Devotion to players?
+Creatures stopping events from occuring
+More counterspells","More card draw, extending/copying events",359,"For Roey:
+Add subtypes and interaction with subtypes
+Balance number of cards and mana curve in each color",,,
+-1,,,,,,,,,,,,,,,,
+0,,,,,,,,,,,,,,,,
+1,Unpopular Opinion:,2,{u/b},Common,,Instant,Black,-,-,Destroy target artifact or enchanment unless its controller pays {2}.,IRL,3,,Kill,,
+2,DUDE,4,{4},Common,,Instant,Colorless,-,-,Draw cards equal to the number of active Events.,IRL,3,,Buff,,
+3,Disgusting Kitchen,,,Common,,Land,Black/Blue,-,-,{t}: Add {b} or {u} to your mana pool.,IRL,0,,Minion,,
+4,Peanut Butter:,1,{r},Common,,Sorcery,Red,-,-,"If target creature has a +1/+1 counter on it, tap it. Put a +1/+1 counter on it. Create 2 Foods.",IRL,3,,,,
+5,Kermit the Frog,2,{1}{g},Rare,,Creature,Green,1,2,"{t} Add {g} to your mana pool. 
+{2}: Kermit the Frog gains reach until end of turn.",IRL,2,"""*lip smack* Ahm...""",,,
+6,Erez Levy,3,{1}{w/g}{w/g},Uncommon,,Creature,White/Green,3,3,"When Erez Levy enters the battlefield, destroy target creature unless its controller donates you a Treasure.",IRL,1,,,,
+7,Assaf,1,{1},Common,,Creature,Colorless,1,1,,IRL,10,"""What was I supposed to be doing again?""",,,
+8,My Friending,3,{1}{g}{r},Uncommon,,Sorcery,Red/Green,2,2,"Haste
+When My Friending enters the battlefield, choose a color. Target permanent gains protection from that color until end of turn.
+Donate",IRL,2,,,,
+9,Blue Nun,3,{2}{u},Common,,Artifact Eq.,Blue,-,-,"Equip {1} 
+At the beginning of your upkeep, put a +2/-1 counter on equipped creature.",IRL,1,,Minion,,
+10,The Hard R,2,{b}{b},Rare,,Instant,Black,-,-,"Destroy target creature. If this spell is countered, its controller loses 3 life.",IRL,2,"""Stop.""",,,
+11,Messi/The GOAT:,5,{3}{r/g}{r/g},,,Creature,Green,5,4,"Haste
+When Messi deals combat damage to an opponent, create a Treasure.",IRL,1,,,,
+12,"Faramir, the Forgotten",4,{2}{w}{w},Rare,Legendary,Creature,White,4,5,"Shadow
+Whenever Faramir deals combat damage to a player, put a +1/-1 counter on it.",BOOK,1,"""HEEEYYY GUUUUYYYYYSS!!!""",,,
+13,The Vape (addiction stacks):,2,{1}{r},Uncommon,,Artifact Eq.,Red,-,-,"Equip {1}
+At the end of your turn, place a +1/-1 token on equipped creature.
+",IRL,1,,,,
+14,The Speaker:,3,{2}{r},Rare,,Artifact Eq.,Red,-,-,"Equip {1}
+Equipped creature gets +2/+0 and has trample.
+Worth 1",IRL,2,,,,
+15,The Farter:,3,{1}{b}{b},Rare,,Artifact,Blue,-,-,"{t}: Tap target creature
+{t}, sacrifice a token: put a +1/+1 counter on target creature 
+Worth 1",IRL,2,,Minion/Buff,,
+16,Shack strikes back (his farts):,2,{1}{r/g},Common,,Instant,Red/Green,-,-,Destroy attacking creature.,IRL,3,,,,
+17,The Multiverse:,5,{w}{u}{b}{r}{g},Rare,,Sorcery,White/Blue/Black/Red/Green,-,-,"Costly 2
+Prolong each active Event by 1 turn, then start an Event with, ""Lasts 1 turn. Players may sacrifice cards whose converted mana costs are X to search their library for a card with converted mana cost less than or equal to X and put it on the battlefield.""",IRL,2,,,,
+18,Hannibal Barca:,5,{2}{g}{g}{g},Rare,Legendary,Creature,Green,2,3,"When Hannibal Barca enters the field, create a 3/4 Green Elephant creature token with, ""{1}{g}{g}: this creature gains trample until end of turn.""
+Sacrifice a Treasure or Food: Cards named Hannibal Barca and all Elephant creatures gain first strike until end of turn.",IRL,1,,,,
+19,Rabid cats:,1,{1},Uncommon,,Creature,Black/Red/Green,1,1,"You must pay {b},{r}, or {g} as Rabid Cats' mana cost.
+Sacrifice a Food: place a +1/+1 counter on Rabid Cats. It gains first strike until end of turn.",IRL,4,,,,
+20,"Tami Tamir, the Humblest",5,{1}{u}{u}{u}{u},Rare,Legendary,Creature,Blue,6,3,"When Tami Tamir enters the battlefield, end all Events and destroy all cards that can start Events. Destroy all creatures named Chigerious the Humble.
+Flying
+Sacrifice a Treasure: create a 1/1 Algorithm Creature token with Haste.",IRL,1,"""Can we do it?""",Minion,,
+21,Avner(add pic of avner in prison break):,3,{r}{r}{r},Rare,Legendary,Enchantment Creature,Red,5,5,,PB,1,,,,
+22,Eren: (monstrosity) (scry),3,{r}{r}{r},Rare,Legendary,Creature,Red,3,2,"{3}{r}{r} Monstrosity 3
+{1}{r}{r}, sacrifice 2 creatures of power 2 or greater: MegaMonstrosity 5: You scry 1 for each player and Eren gains trample. (Activate only if Eren is monstrous and isn't mega-monstrous. Eren becomes mega-monstrous.)
+",AOT,1,,,,
+23,Creeper:,3,{2}{g},,,Creature,Colorless,5,1,Sacrifice Creeper: destroy target creature Creeper is blocking.,MC,4,"""Aww man.""",Buff,,
+24,Zombie:,2,{2},Common,,Creature,Colorless,2,2,,MC,4,"""Zomb-! Oh, wait, that's just Louis. He's coming back from a meeting.""",Buff,,
+25,Skeleton:,3,{3},Common,,Creature,Colorless,1,3,"{t}: Skeleton deals 1 damage to target creature.
+When Skeleton dies, flip a coin. If heads, create a Weapon.",MC,4,,Buff,,
+26,Spider:,2,{1}{b/g},Common,,Creature,Colorless,1,2,Reach,MC,4,,Buff,,
+27,Villager ,4,{4},Uncommon,,Creature Artifact,Colorless,2,3,"{2}: flip a coin. If it's heads, choose 1:
+- place a +1/+1 counter on a target creature
+- make a Food, Treasure, or Weapon",MC,4,,Buff,,
+28,Iron Golem,5,{5},Uncommon,,Creature Artfiact,Colorless,3,5,"Defender, Modular 1",MC,4,,Buff,,
+29,Doron:,3,{2}{u},Rare,Sniper,Creature,Blue,3,1,Tap: deal damage equal to his power to target creature,TV,1,,,,
+30,BOILER BOILER:,3,{3},Uncommon,,Instant,Colorless,-,-,Counter target Event.,TV,4,,Minion,,
+31,Plotting,2,{1}{u},Common,,Sorcery,Blue,-,-,"Scry 2
+Target creature gains first strike until end of turn.",PB,2,"""So there's this guy named Michael...""",Minioin,,
+32,Michael Schofield:,4,{2}{w}{w},Rare,Legendary,Creature,White,2,4,"When Michael Scofield enters the battlefield, scry 2.
+{t}: Begin a 2-turn Event with ""Players may sacrifice 1 food, treasure, or weapon token for any of the others.""",PB,1,BARGAIN?,,,
+33,Link the Sink:,4,{1}{r/g}{r/g}{r/g},Rare,,Creature,Red/Green,5,4,"Trample
+Bloodrush {1}{r}{r}",PB,1,,,,
+34,Ocean that is not an ocean:,,DONT DO,DONT DO,DONT DO,Land,Blue,-,-,,-,0,,Nerf,,
+35,Meow: (drunk louis),1,{1},Common,,Instant,Green,-,-,"Deal 1 damage to any target.
+Storm",IRL,5,,,,
+36,Ollie,1,{w},Common,,Creature,White,1,2,Bloodrush {w},IRL,3,,,,
+37,Zuko,2,{1}{r},Common,,Creature,Red,3,2,Bloodrush {1}{r},IRL,3,,,,
+38,Parker/Drunk Shachar:,,0,Uncommon,,Creature Egg,Black,0 / 3,3 / 4,"Pay 2 or sacrifice a Food: Place a beer counter on Parker.
+If there are 4 or more beer counters on Parker, transform it.
+Drunk Shachar:
+{3}: Create a food token
+Sacrifice a food token: put a +1/+1 counter on Drunk Shachar",IRL,1,,buff,,
+39,Skateboard:,1,{1},Uncommon,,Aritfact Eq.,Green,-,-,"Equip {2} 
+Equipped creature gets +2/-1 and, ""{1}: this creature gets +1/+1 and gains haste until end of turn""",IRL,1,,,,
+40,Guitar:,1,{1},Uncommon,,Artifact Eq.,Colorless,-,-,"Equip {2}
+Equipped creature gets first strike and, ""{2}: this creature gets +1/+1 until end of turn.""",IRL,1,,Kill,,
+41,Do Over:,5,{3}{d}{d}{d},Rare,Legendary,Instant,Black,-,-,Take another combat phase after this one.,LOL,2,,Minion,,
+42,(or go to the ability above)One more time:,4,{2}{w}{w},Rare,,Instant,White,--,-,"Counter a card named Do Over. 
+Target creature gains Double Strike until end of turn.",LOL,2,,,,
+43,Welcome To Zaun(siege)/Ekko:,0,{0},,,Creature Egg,Blue/Black,0 / 7,4 / 5,"Pay {3}{u/b}{u/b}{u/b}: Transform Zaun to Ekko. When you do, you may take card from your graveyard and put it into your hand.
+Ekko has {2}{u/b}: Regenerate.",LOL,1,,Minion,,
+44,Jungle Invasion:,3,{2}{b/g},,,Instant - EVENT,Green/Black,-,-,"Lasts 1 rotation
+{2}: The next creature you cast may be cast as though it has Flash. Any player may activate this ability.",LOL,2,,,,
+45,Inting:,3,{2}{w},Rare,,Enchantment,White,-,-,All creatures target opponent controls must attack this turn.,LOL,2,,,,
+46,FF15:,5,{u/b}{u/b}{u/b}{u/b}{u/b},Mythical,Legendary,Instant,Black/Blue,-,-,Target player loses the game unless they attack with all of their creatures for the next two turns.,LOL,1,,Minion,,
+47,Nasus' fat stacks:,2,{b}{b},,,Sorcery,Black,-,-,Create a Treasure and a Weapon.,LOL,2,,Buff,,
+48,Thievery,2,{w/r}{w/r},,,Instant,White/Red,-,-,Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.,IRL,1,,,,
+49,Morgana's Stun:,3,{2}{b},Common,,Sorcery,Black,-,-,"Tap target creature.
+Prolong target Event by 2 turns.",LOL,3,,Buff,,
+50,Shaco:,5,{4}{b},,,Creature,Black,7,4,"{1}{b}{b}: Shaco gains Shadow until end of turn.
+{1}{b}, {t}: Create a 1/1 Black Decoy creature token. If Shaco has Shadow, put a +1/+1 counter on it.",LOL,1,,Kill,,
+51,gbargain,,no need ig,,,Artifact Eq./Creature,Black,,,,PB,0,,Minion,,
+52,Big Oven,5,{3}{r}{r},Mythical ,Morning,Sorcery,Red,-,-,"Big Oven deals 5 damage spread among up to 3 targets.
+For each creature dealt damage this way which dies this turn, create a Food.",IRL,3,,,,
+53,ST:,4,{4},,,Enchantment,Colorless,,,"Enchant equipment
+Enchanted equipment gains, ""Equipped creature gets +2/+2. If equipped creature is equipped with 2 or more ST-enchanted items, it gains +3/+3. Worth 3""
+Donate
+",ROTMG,4,,Buff,,
+54,UT:,4,{4},,,Enchantment,Colorless,,,"Enchant equipment
+Enchanted equipment gains, ""Equipped creature gets +2/+2"" and Worth 3
+If enchanted equipment is removed from a creature, start an Event for as long as this equipment is unequipped with, ""enchanted equipment can be gained control of for 2 treasure"".",ROTMG,3,,Minion,,
+55,Speed pot:,1,{g/u},Common,,Instant,Colorless,,,Target creature gets +1/+0 and haste until end of turn.,ROTMG,2,,M/B/K,,"Pay 4: Los Pollos Hermanos:mmmmmmmmmmmmmmmmmmmmm chiken make u go big big boom boom
+U bargain your chicken (+2/+2) for a custom bargain of your choice with your target player, if it succeeds, you gain 2 food tokens
+Pay 7: You implode on sight AAAAAAAAAAAAAAAAAAAAA choose 2 creatures to exile"
+56,Dex pot:,3,{r/w}{r/w}{r/w},Common,,Sorcery,Colorless,,,Target creature gains double strike until end of turn.,ROTMG,2,,,,
+57,GLife pot:,1,{u/b},Uncommon,,Sorcery,Colorless,,,Target creature gains lifelink until end of turn.,ROTMG,2,,,,
+58,GAtk pot:,1,{r/b},Uncommon,,Sorcery,Colorless,,,Target creature gets +3/+0 and trample until end of turn.,ROTMG,2,,,,
+59,"Yossi, Calculated Manip:",4,{2}{w/u}{w},Rare,,Creature,White,4,2,"When Yossi enters the battlefield, scry 1 and draw a card.
+{t}, sacrifice a Treasure: counter target spell.",IRL,2,,,,
+60,Saul goodman:,2,{w}{w},Rare,Legendary,Insant,White,-,-,"Both you and target opponent each make X Foods, Y Treasures, and Z Weapons, where X+Y+Z=3.",BB,1,,,,
+61,DO IT JESSE:,3,{1}{r}{r} ,Uncommon,,Sorcery,Red,,,"You call in Pinkman to do your bidding (choose one):
+-destroys target creature
+-target creature gets +4/-2 until end of turn
+-Create 2 Treasures",BB,1,,,,
+62,Heisenburg:,4,{1}{r}{r}{r},Rare,Legendary,Creature,Red,3,2,"Lifelink, Deathtouch
+{2}: give target creature +2/-1 until end of turn",BB,1,,,,
+63,"Mike, Grandfather",6,{3}{u}{u}{u},Mythical,Legendary,Creature,Blue,6,2,"When Mike, Grandfather enters the battlefield, you may sacrifice a Treasure. If you do, create a Weapon.
+Sacrifice a Weapon: Mike, Grandfather deals damage equal to his power to target creature.",BB,1,,Buff,,
+64,"Gus Fring, Auspicious Owner",5,{3}{w/b}{w/b},Mythical,Legendary,Creature,White/Black,4,6,"{2}, sacrifice a Treasure: make a Food. Any player may activate this ability; if that player doesn't control Gus, Gus's controller makes a Treasure.
+At the end of your endstep, if you have donated at least 2 Food, draw a card.
+{7}, sacrifice Gus: Destroy up to 2 target creatures and 1 target artifact.",BB,1,,,,
+65,Men,2,{1}{w},Rare,,Insant,White,-,-,"Choose 1-
+Counter target spell 
+Make target creature's base power and toughness 1/1 until end of turn and create a 1/1 Assaf creature token.",IRL,2,"""... men are weak.""",,,
+66,Kon: (kill character and lose health/perma lose 1-2 hp from a certain mob),3,{r/b}{r/b}{r/b},Rare,,Sorcery,Red/Black,-,-,"Destroy target creature.
+Strive {1}, 2 life",ANIME,2,,,,
+67,Ligma Balls:,3,{w/u}{b/u}{u},Mythical,,Sorcery,Blue,-,-,"Exile target creature.
+If an Event is occurring, its controller loses 3 life.",IRL,3,"""Who the hell is Steve Jobs..?""",Buff,,
+68,Cessna TTx:,5,{5},Common,,Creature M,Colorless,3,3,"Flying
+Donate
+If you donate Cessna TTx, target creature you control gains flying until end of turn.",IRL,2,,,,
+69,Piper M350:,6,{4},Common,,Creature M ,Colorless,4,3,"Flying
+Donate
+If you donate Piper M350, target creature you control gains deathtouch until end of turn.",IRL,2,,,,
+70,Haim's Battlecar,6,{6},Common,,Creature M,Colorless,3,2,"Flying, Haste
+When Haim's Battlecar enters the battlefield, create 2 Foods.",IRL,2,,,,
+71,Cessna 172:,5,{4}{r},Common,,Creature M,Colorless,4,4,"Flying
+Donate
+If you donate Cessna 172, target creature you control gains hexproof until end of turn.",IRL,2,,,,
+72,G36 Bonanza:,5,{4}{w},Common,,Creature M,Colorless,5,5,"Flying
+Donate
+If you donate G36 Bonanza, target creature you control gains lifelink until end of turn..",IRL,2,,,,
+73,G-BUCH:,6,{4}{r/w}{r/b},Uncommon,,Creature M,Colorless,7,2,"Flying
+Kamekaze: {2}, pay 2 life, and sac to kamikaze target creature, inflicting the attack power of this card",IRL,2,,,,
+74,"Arms: (workout shachar, potential enchatment)",3,{r/w}{r/w}{r/w},Uncommon,,Enchantment,White/Red,,,"Enchant creature
+Enchanted creature gets +4/+4.
+Sacrifice a Food token: enchanted creature gets +1/+1 until end of turn.",IRL,3,,,,
+75,The Eclipse:,5,,Rare,,SPECIAL EVENT,White/Black,-,-,"Lasts 1 rotation
+All creatures have deathtouch.
+At the end of given player's turn, if a creature they controlled died, they may search their graveyard or deck for a card which starts an Event and put it into their hand.",FRANKEN,1,,,,
+76,Eclipson:,6,{5}{u},Mythical,Legendary,Creature,Blue,*+3,*+3,"Eclipson's power and toughness are each equal to 3 plus the number of active Events and Events in graveyards.
+{3}: Start an Event that lasts 1 turn with, ""Blue creatures get +1/+1.""
+{3}{u}, sacrifice a Treasure: Search your deck for a card which starts an Event and put it into your hand.",FRANKEN,2,,Minion,,
+77,Dragon,8,{5}{r}{r}{r},Rare,,Creature,Red,9,9,"Flying, Haste
+{2}{r}{r}: Dragon gets -1/-1 until end of turn and deals 5 damage split among at most 3 target creatures.",FRANKEN,1,,,,
+78,Fire Shield from franken:,2,{2},,,Artifact Eq.,Colorless,,,"Equip {4}
+Equipped creature gets +0/+2 and has reach and protection from red.",FRANKEN,1,,,,
+79,Grey Cone:,2,{2/b}{2/b},Common,Flying,Creature,Colorless,2,3,,FRANKEN,2,,Buff,,
+80,Mr3:,3,{g}{g}{g},Uncommon,,Creature,Green,3,3,"{1}{g}, {t}: pick one-
+-give target creature +0/+3 until end of turn
+-give target creature +3/+0 until end of turn
+-deal 3 damage distributed among any targets",FRANKEN,3,,,,
+81,Galaxy Rail,3,{1}{w/u}{w/u},Common,,Enchantment,White,-,-,"Enchant creature
+Enchanted creature gets +2/+2, flying, and donate.",FRANKEN,2,,,,
+82,spider,4,{2}{g/r}{g/r},Uncommon,,Creature,Colorless,2,3,"When spider enters the battlefield, put a -1/-1 counter on each other Spider on the battlefield.",FRANKEN,3,,,,
+83,The Gin,2,{b}{b},Uncommon,,Enchantment,Blue,-,-,"Enchant creature
+At the beginning of your upkeep, flip a coin. If heads, tap enchanted creature.
+Worth 1",IRL,2,,Minion,,
+84,Senbonzakura Kageyoshi:,3,{w}{w}{w},Uncommon,,Instant,White,-,-,Deal 2 damage to all creatures you don't control.,,3,,,,
+85,BANKAI:,5,{3}{g}{g},Uncommon,,Sorcery,Green,-,-,"Target creature gains +5/+5, trample, and first strike until end of turn.",ANIME,2,,Buff,,
+86,Aizen's Hogyoku,2,{u}{u},Mythical,,Instant,Blue,-,-,"Scry 2 for target player, then Scry 2.",ANIME,2,,,,
+87,You Have No Enemies,2,{w/r}{w/u},Mythical,,Instant,Blue/White,-,-,Prevent all damage that would be dealt to you this turn.,ANIME,1,,Kill,,
+88,Bellick:,2,{u/b}{w/b},Uncommon,,Creature,Blue/Black/White,2,3,"{t}, sacrifice a Food, Weapon, or Treasure: Create a Food, Weapon, or Treasure.
+Whenever a a Food, Weapon, or Treasure is placed on the battlefield under a player's control, you may put a -1/-1 counter on Bellick. If you do, gain control of that token.",PB,3,,Nerf,,
+89,Prisoners:,1,{2/r},Common,,Creature,Colorless,1,1,"When Prisoners enters the battlefield, create a Weapon.
+Sacrifice a Treasure: Prisoners gets +2/+0 until end of turn.",PB,7,,,,
+90,Ent:,4,{g}{g}{g}{g},Mythical,Legendary,Creature,Green,3,5,"Defender
+{t}, place a -1/-1 counter on Ent: create a 1/1 Entling Elemental Forest token.
+Tap an Elemental you control: Ent may attack as though it doesn't have defender and gains trample until end of turn.",BOOK,3,,,,
+91,Urgals:,3,{b/g}{b/g}{b/g},Uncommon,,Creature,Black/Green,4,3,"Trample
+Bloodrush {3}{b/g}",BOOK,5,,Kill,,
+92,Kull:,3,{b/r}{b/r}{b/r}{b/r},Rare,,Creature,Black/Red,6,5,{1}{b}{b}: Kull gains trample until end of turn.,BOOK,4,,Minion,,
+93,Blodgarm:,5,{3}{g}{g},Rare,,Creature,Green,6,3,"Bloodrush {4}{g}{g}
+{t}: Search your deck for a creature with converted mana cost 3 or less and place it on the battlefield, then shuffle your deck.
+If you Bloodrush Blodgarm, you may perform its tap ability as you do so.",BOOK,1,,,,
+94,Armin,4,{2}{u/r}{u/r},Rare,,Creature,Blue/Red,4,2,"{6}{u/r}{u/r}: Monstrosity 5
+When Armin becomes monstrous, he deals 3 damage to all other creatures and destroys all Foods, Treasures, and Weapons.",AOT,1,,Minion,,
+95,Uh (smiling friends),3,{2}{r},Common,,Sorcery,red,-,-,Destroy target creature unless its controller chooses to lose 4 life.,TV,2,,Minion,,
+96,do that again and ill punch you (punching demon),1,{u/b},Common,,Instant,Blue,-,-,"Players may attack with at most one creature until end of turn.
+If an Event is occurring, draw a card.",TV,3,,Minion,,
+97,Do That Again.,3,{1}{b}{b},,,Instant,Black,-,-,Exile target spell in any graveyard. You use mana as though it were mana of any color to cast the copy.,TV,2,,Buff,,
+98,FINANCE,,,Uncommon,,SPECIAL EVENT,Black/Red,,,"Lasts 1 rotation
+All permanents have Worth 1.
+Whenever a Worth ability is activated by a player, they may then pay {X} and gain control of target creature with converted mana cost with converted mana cost X.",TV,1,,Minion,,
+99,DIGITAL STYLE,,,Uncommon,,SPECIAL EVENT,White/Black,,,"Lasts 2 rotations
+Equipment and Aura spells may be cast and equipped at any time.",TV,1,,,,
+100,NO.. YEAH,1,{u/r},,,Instant,Blue/Red,,,"This spell can't be countered.
+Destroy target creature. Its controller gains life equal to the sum of its power and toughness.",TV,2,,Nerf,,
+101,Put Some Back,6,{4}{b}{b},Mythic,,Instant,Blue,-,-,Return target creature from your graveyard to the battlefield defending target attacking creature.,TV,1,"""You took too much... put some back.""",Buff,,
+102,Nappa,5,{3}{r/b}{w/r},Rare,Trample,Creature,Red,5,5,"Flying
+If a card named Vegeta and Nappa both attack, Nappa gets +2/+1 until end of turn.",ANIME,1,"""Vegeta? Vegeta? Vegeta? Ve-""",,,
+103,imJarons,3,{2}{b},Uncommon,,Creature,Blue,1,2,"{t}: Add one mana of any color to your mana pool.
+Whenever an opponent creates a Food, create a Food.
+You may sacrifice 2 Food rather than pay imJarons' mana cost.",ANIME,2,,Buff,,
+104,Muffin Button,2,{w}{w},Rare,,Instant,White,-,-,Create 2 Food tokens. Target creature protection from target color until end of turn.,ANIME,2,,,,
+105,Perfect Cell,3,{g/r}{g/r}{r/b},Mythical,,Creature,Green,1,1,"Sacrifice a creature, 2 Food, or 2 Weapons: put a +1/+1 counter on Perfect Cell. 
+If there are four or more +1/+1 counters on Perfect Cell, has flying. 
+If there are 6 or more, Perfect Cell has First Strike. 
+Remove a +1/+1 counter from Perfect Cell, sacrifice a Food, {t}: create a copy of Perfect Cell and place it under your control.",ANIME,1,,,,
+106,Vegeta (stronger everytime he almost dies),2,{r}{b/r},Mythical,Legendary,Creature,Red,2,3,"At your end step, if Vegeta blocked a creature this turn, put a +1/+1 counter on him.
+If a card named Nappa and Vegeta both attack, Vegeta gains flying and +2/-2 until end of turn.",ANIME,1,,,,
+107,EZ CHECK,,,Instant - EVENT,,Instant - EVENT,Green,-,-,"Lasts 1 turn
+Each player may tap 2 creatures. Each time the did not, they lose 2 life. If they did tap 2, they make a Food.
+",IRL,4,,,,
+108,Instant Transmission ,1,{w/u},Uncommon,,Instant,White/Blue,,,"Return target permanent to its owner's hand.
+If an Event is occurring, draw a card.",ANIME,3,,,,
+109,Haim,1,{w/r},Mythical,Legendary,Creature,White,1,3,"{2}, sacrifice a Treasure: make a food token. Any player may activate this ability; if that player doesn't control Haim, Haim's controller makes a Treasure. If a card named Haim's Battlecar is on the battlefield, Haim gets +1/+1 and makes 2 food instead.",IRL,1,,,,
+110,Barbeque Bacon Burger,2,{1}{u/r},Rare,,Sorcery,Blue/Red,,,"Create 5 Foods.
+Target player gains control of two.",IRL,3,,Minion,,
+111,Terminator,5,{g}{g}{g}{g}{g},Mythical,,Creature,Green,5,5,"Intimidate
+When Terminator enters the battlefield, create a Weapon.
+If a Weapon you control would deal damage, it deals twice that much instead.",TV,1,,,,
+112,Social Credit Score,,,Instant - EVENT,,SPECIAL EVENT,Red,-,-,"Lasts 2 rotations
+When this Event begins, each player makes a Food.
+At the beginning of each player's upkeep, they take 3 damage if they have less than 2 Foods.",IRL,2,,,,
+113,Son of Gondor,3,{1}{w/g}{w/g},Rare,,Creature,White,3,3,{3}: Son of Gondor gains +1/+1 and Double Strike until end of turn. Sacrifice Son of Gondor at the end of combat.,IRL,1,,,,
+114,Nadal's Ass,3,{2}{u},Uncommon,,Creature,Blue,2,4,"Persist
+Sacrifice a Treasure: Djokovic gets +1/+1 until end of turn.",IRL,2,,Buff,,
+115,Djokovic,4,{3}{g},Uncommon,,Creature,Green,3,3,"First Strike, Hexproof",IRL,1,,,,
+116,But Nobody Came,5,{3}{b}{b},Mythical,Legendary,Sorcery,Black,,,Destroy all creatures and exile all cards in all graveyards. Each player creates a Weapon.,UNDER,1,,Kill,,
+117,Flowey / Omega Flowey,4,{2}{w/b}{w/b},Mythic,Legendary,Creature,White/Black,2,3,"{6}{w/b}{w/b}{w/b}, sacrifice a Food or Weapon: Monstrosity 6. When Flowey becomes monstrous, return up to 3 target creatures to their owner's hand and create 3 1/1 Plant creature tokens with deathtouch.",UNDER,1,,,,
+118,Frisk / Chara,3,{1}{w/b}{w/b},Rare,,Creature,White/Black,1,5,"If Frisk dealt combat damage to a player or a creature, put a genocide counter and +1/-1 counter on it. If a creature it dealt damage to dies this turn, put a genocide counter on it.
+Remove 3 genocide counters from Frisk: remove all +1/-1 counters from Frisk and transform it.",UNDER,1,"Chara: 3/3, double strike.
+Sacrifice a creature you control: Chara gains +2/-2 until end of turn.",,,
+119,Sans,1,{w/b},Uncommon,,Creature,White/Black,1,1,"{w/b}: Regenerate Sans
+{w/b}: Sans deals 1 damage to target creature or player
+{3}{w/b}, {t}: Create a 2/1 white and black Gaster Blaster artifact token",UNDER,1,,,,
+120,Undyne the Undying,3,{w}{w/u}{w/u},Rare,,Creature,White/Blue,4,2,"Haste, Indestructible",UNDER,1,,,,
+121,Avishai,2,{1}{b},Common,,Creature,Blue,2,2,Tap Avishai: create a Food and return Avishai to its owner's hand,IRL,1,,Buff,,
+122,The Name of the Wind,,{2}{w/b}{w/b},Rare,,Instant,White/Red,,,"Each player shuffles their hand into their library and draws that many cards. You draw X cards, where X is how well you know the wind. Put The Name of the Wind X cards from the top or bottom of your library and increase the number of names you know by 1.
+Creatures you control have haste and flying until end of turn.
+",BOOK,2,,,,
+123,Soulbound,,{1}{u/r}{u/r},Uncommon,,Enchantment,Blue/Red,,,"Whenever a player activates a donate ability, they lose 1 life.
+Whenever a player begins an Event, they gain 1 life.",ROTMG,2,,,,
+124,My Shredder,,{3},Uncommon,,Artifact,White,,,"{t}: Destroy target artifact. If it was a token, create a Treasure, Food, or Weapon.
+Worth 1",TV,2,,,,
+125,Stop Talking About Anime,3,{3},,,Instant,Colorless,-,-,"If a creature you controlled died this turn, you may search your graveyard or deck for a card which starts an Event and put it into your hand.
+Storm",IRL,3,,,,
+126,Who is he- (could be either mob ??? OR spot in Black mode like a scary character) ,3,{3},Legendary,,Sorcery,Colorless,-,-,"Target player chooses a card from their hand and places it face down. You do the same. Without revealing the cards to anyone, you each take the other's card and put it into your hand. All colors on those cards become Colorless.",ANIME,2,,,,
+127,I DONT DRINK COLA ZERO,5,{3}{u}{u},Legendary,,Enchantment,Blue,,,"If your health is below 5, all creatures you control gain haste, first strike, and deathtouch.",IRL,2,,Minion,,
+128,Mr. Frog,2,{g/b}{g/b},,,Creature,Green/Black,2,2,Lifelink,TV,3,,,,
+129,T-1000 (terminator 2),5,{4}{p/u},,,Artifact Creature,blue,5,3,"{2}{p/u}:  T-1000 becomes unblockable until end of turn.
+When T-1000 enters the battlefield, create a Weapon.
+If a Weapon you control would deal damage, it deals twice that much instead.",TV,2,,Kill,,
+130,I Remember Halloween,5,{5},,,Artifact,Colorless,,,"{t}, sacrifice a Treasure: counter target instant or sorcery.",IRL,2,"""Halloween! Halloween! Halloween!""",,,
+131,Hiroyuki Sawano,4,{3}{w},Mythical,Legendary,Creature,White,4,2,"{5}: Create a Treasure. Deal 4 damage to split among any target.
+Vigilance",IRL,1,,,,
+132,Gun of Sondor,3,{3},Rare,,Artifact Equipment,Colorless,,,"Equip {2}: 
+Equipped creature has, ""{2}, {t}, this creature deals damage to target creature equal to this creature's power.""",IRL,2,,,,
+133,Log #8: The Abyss,3,{b}{b}{b},Rare,,Sorcery,Black,,,"As an additional cost to Log #8, exile target creature you control. You may exile another target creature you control. If you do, this spell can't be countered. 
+Exile target creature. Its controller loses health equal to its power.",IRL,1,,Minion,,
+134,Nexus Drop Party,,,,,SPECIAL EVENT,White,,,"Lasts 1 turn.
+At the beginning of each player's upkeep, they choose Food, Treasure, or Weapon. Each player makes one of the chosen type. If that player chooses not to attack this turn, this Event lasts one more turn.",ROTMG,3,,,,
+135,Nitra,1,{1},,,Artifact,,,,"Sacrifice Nitra: draw a card.
+Donate",DRG,7,,,,
+136,Gold,2,{2},,,Artifact,,,,"Sacrifice Gold: draw a card and create a Treasure.
+Donate",DRG,5,,,,
+137,Bismor,4,{4},,,Artifact,,,,"Sacrifice Bismor: draw a card and create 2 Treasures.
+Donate
+If you donate Bismor, scry 1.",DRG,4,,,,
+138,Swarm,0,{0},-,-,SPECIAL EVENT,Green,,,"Swarm enters the battlefield with 2 time counters.
+Every rotation, remove a time counter from Swarm. If it has no time counters, begin the following Event""
+Wave 1: X Players opt in to fight 2 3/2 Green Glyphid creature tokens each. They may block collectively. Each player with at least 1 creature surviving creates 2 Treasures. They can choose to leave, but X doesn't change.
+Boss: RAND = [4, 7]. X Players 2X + RAND / 2X + RAND. Each player with at least 1 creature surviving gets X Foods, Y Treasures, and Z Weapons, where X + Y + Z = 5.",DRG,3,,,,
+139,For Karl!,5,{2}{u/b}{u/b}{u/b},Mythical,,Enchantment,Blue/Black,,,"Sacrifice a Food: put a +1/+1 counter on target creature.
+When a creature you control dies, draw a card or create a Food.
+",DRG,3,,Kill,,
+140,Two Bits or Not Two Bits,1,{u/g},Common,,Instant,Blue/Green,,,"Choose one-
+-Create 2 Treasures.
+-Sacrifice two Treasures: draw 2 cards.",IRL,2,,Buff,,
+141,"Whitebringr, decendant of Bastion",7,{5}{w}{w},Mythical,,Creature,White,6,5,"Reach
+{9}, {t}: deal 9 damage to target creature.",ROTMG,1,,,,
+142,"VoidDweller, the wanderer",,,Mythical,,Creature,Black,3,6,"Vigilance
+Deathtouch",ROTMG,1,,Minion,,
+143,Out of the Hat,1,{u},Common,,,,,,Shuffle target player's library. Draw a card.,ROEY,3,,,,
+144,Rubber Room,,,,,SPECIAL EVENT,,,,"Lasts 2 turns
+Whenever a creature dies, its controller sacrifices a Food token and creates a 1/1 Black Rat creature token. If they have no Foods, they lose 1 life instead.
+If a creature died this turn, this Event lasts 1 more turn.",ROEY,2,,,,
+145,Zombie Horde,,,Rare,Legendary,,,,,,MC,0,,,,
+146,Labeb,,,Uncommon,,SPECIAL EVENT,,,,"Lasts 1 rotation
+Each player creates Foods equal to the color to which they have the least devotion.
+Players may sacrifice one Food to put a +1/+1 counter on target creature.
+",IRL,2,,,,
+147,Aren,,,Mythical,Legendary,Artifact,Red,,,"Sacrifice a creature or Food: place a +1/+1 counter on target creature.
+Remove a +1/+1 counter from a creature you control: add one mana of any color to your mana pool.",BOOK,1,,,,
+148,Greater Defense Potion,1,{g/w},Uncommon,,Instant,Neutral,,,Choose a color. Target creature gains protection from the chosen color until end of turn.,ROTMG,2,,,,
+149,Fool's Mate,,,Mythical,,Instant,Neutral,,,Each player loses life equal to the number of Treasures they control. Donate abilities cannot be used until this spell resolves.,IRL,2,,,,
+150,300 Black Men for Only 5 Pounds,,,Rare,,SPECIAL EVENT,Neutral,,,"Lasts 1 turn
+Roll a d6. Each player creates their choice of X Foods, Y Treasures, and Z Weapons such that X+Y+Z is equal to the result.",IRL,3,,,,
+151,Trip to Los Pollos Hermanos,,,,,Instant - EVENT,green,,,"Lasts 2 turns
+When a creature dies, its controller creates a Food.
+Sacrifice a Food: create a Weapon.",TV,3,,,,
+152,Trip to Ellesmira,,,,,Instant - EVENT,green,,,"Lasts 1 turn
+After this turn's combat phase, each player may tap a creature to scry 1 or tap 2 creatures and search their library for a land, put it onto the battlefield, and shuffle their library.",BOOK,2,,,,
+153,Trip to Mordor,,,,,SPECIAL EVENT,red,,,"Lasts 2 rotations
+Creatures get +2/-1.
+Enchantments and artifacts are 0/2 creatures with haste in addition to their other types.",TV,2,,,,
+154,Strange Larva,1,{b/g},,,Creature,Green/Black,0,3,"Strange Larva enters the battlefield with 2 time counters on it. At the end of your endstep, remove a time counter from Strange Larva. Then, if it has no time counters on it, transform it.
+Strange Larva takes damage in the form of -0/-1 counters.",Inscryption,2,"Mothman: 7/3 Flying
+
+Strange Larva takes damage in the form of -0/-1 counters.",,,
+155,Feed Power,4,{3}{r/g},,,Enchantment,Red/Green,,,"Sacrifice a Treasure: put a +1/+1 counter on target creature. Target equipment it is equipped with gains hexproof until end of turn.
+If a Weapon you control would deal damage, it deals twice that much instead.",ROTMG,3,,,,
+156,Sweat Shop,5,{2}{b/g}{b/g}{b/g},,,SPECIAL EVENT,,,,"Lasts 1 rotation
+Players may-
+Sacrifice a Treasure: Create a 1/1 Human Child creature token with vigilance.
+Sacrifice a Food: Create a 1/1 Human Child creature token and put a +1/+1 counter on it.
+Sacrifice a Weapon: Create a 1/1 Human Child creature token with haste.",IRL,1,,,,
+157,Collision of Men,7,{6}{w/r},,,Sorcery,,,,"Collision of Men costs X less to cast, where X is the number of active Events.
+
+All creatures fight each other. (Pick a random number between 1 and X, where X is the number of creatures on the battlefield. The creature of the chose number survives. All others die.)",IRL,2,,,,
+158,Oathbreaker,5,{r}{r}{r}{r}{r},Mythic,,,,5,5,"If a player donated to you and dealt damage to you on the same turn within the last rotation, you may cast Oathbreaker without paying its mana cost and it cannot be countered.
+When Oathbreaker attacks a player, it gets +1/+0 until end of turn for each permanent you've donated to them this turn.
+Haste",IRL,1,,,,
+159,DFAC,0,{0},,,Instant,Black,,,"As an additional cost to DFAC, sacrifice a creature or land.
+Counter target spell.",IRL,1,,Minion,,
+160,Minmax,,,,,SPECIAL EVENT,,,,"Lasts 1 rotation
+Creatures have trample.
+When a creature deals excess combat damage to a player, its controller gains that many Treasures.",IRL,1,,,,
+161,The Trapper,,,,,SPECIAL EVENT,,,,"Lasts 1 turn
+When the Trapper enters the battlefield, each player who controls no Treasures gets 2 Treasures.
+Players may sacrifice 2 Treasures to draw a card.
+Players may sacrifice 4 Treasures to search their library for an Equipment, put it into their hand, and shuffle their library.",IRL,1,,,,
+162,I Have Slain...,4,{2}{g}{g},,,Enchantment,Green,,,"I Have Slain... enters the battlefield with 1 charge counter on it.
+Once during your turn, choose 1-
+-Put a charge counter on I Have Slain... You may not attack this turn.
+-Sacrifice I Have Slain... Deal damage equal to the number of charge counters on it to all creatures, and destroy all Weapons on the battlefield.",IRL,2,"""... my enemies.""",,,
+163,The Wither,,,,,SPECIAL EVENT,,,,"The Wither enters the battlefield with 2 time counters.
+Every rotation, remove a time counter from The Wither. If it has no time counters, begin the following Event:
+Each of the X players chooses between 0 and 3 creatures to fight a 3X/3X Wither creature token.",MC,2,"Wither deals damage to creatures in the form of -1/-1 counters. If it would deal combat damage to a player, it deals X damage instead. Whenever it kills a creature, it deals 1 damage to that creature's controller.
+If Wither would die and isn't monstrous, make it monstrous and its base power and toughness become 4X/4X.",,,
+164,Determination,3,{u/g}{u/r}{r/g},,,,Blue/Red/Green,,,"Creatures target player controls gain indestructible until end of turn.
+Draw a card.",UNDER,2,,Buff,,
+165,Crossing the Alps,,,,,SPECIAL EVENT,,,,"You are in need of food for the long march into rome, for these next 2 turns, you MUST pay at 1 food token to survive each turn, if not you lose 4 health
+You have the choice to redeem 2 food tokens for 1 elephant token (+3/+3 with trample)",IRL,2,,,,
+166,Ender Dragon,8,{6}{b}{b},Mythical,,Creature,Black,7,10,"Each Treasure you sacrifice pays for {2} of Ender Dragon's mana or bloodrush cost. If you bloodrush it, exile it.
+Flying, Persist, Bloodrush {8}{b}{b}",MC,1,,Minion,,
+167,Jack Bower,4,{3}{w},Mythical,,Creature,white,3,2,"Deathtouch
+Whenever Jack Bower deals combat damage, place that many time counters on him.
+{t}, destroy target Weapon: Jack Bower deals 2 damage to any target. Activate this ability only if Jack Bower has 24 or more time counters on him. (Note ""destroy"", not ""sacrifice"". These can be opponents' Weapons.)",TV,1,,,,
+168,Race Wars,,,Uncommon,,SPECIAL EVENT,,,,"Lasts 1 rotation
+Creatures can be targeted as though they were players.",PB,1,,,,
+169,Marcus Aurelius,4,{2}{w/r}{w/r},Mythical,,,white/red,2,2,"When Marcus Aurelius enters the battlefield, place a +1/+1 counter on each creature you control.
+Marcus Aurelius has first strike as long as an Event is active.
+{r/w}{r/w}, {t}: Search your library for a card which could start an Event and put it into your hand.",IRL,1,,,,
+170,Commodus,4,{3}{g},Uncommon,,,green,1,1,"When Commodus enters the battlefield, place a -1/-1 counter on every other creature. Place that +1/+1 counters equal to the number of other creatures on Commodus.
+When Commodus dies, remove any -1/-1 counters placed by Commodus.",IRL,1,,,,
+171,The Wall,,,,,SPECIAL EVENT,white,,,"Lasts 1 turn
+Say ""11:11"", then put the wall in the center of the battlefield. All other players must stack one of their hands on the card. Each receives damage equal to their place. (I.e. the first loses 1 life, the second loses 2 life, and so on.)",IRL,3,,,,
+172,Haikyuu R34,1,{r},Common,,Instant,red,,,"Tap target creature.
+Return target tapped creature to its owner's hand.",IRL,2,,Nerf,,
+173,Slumber,2,{1}{u/g},,,,Blue/Green,,,Target player or creature cannot attack this turn. They draw a card.,IRL,2,,Buff,,
+174,Destiny Draw,5,{5},Rare,,Instant,Colorless,,,"Search your library for a card, place it on the battlefield face-down, and shuffle your library. You may cast that card for {X}, where X is its converted mana cost minus: one quarter of the difference between your starting life total and you current life total, rounded up. If you cast it this way and it would enter a graveyard afterwards, put it into exile instead.",IRL,2,,,,
+1001,,,,,,Artifacts,17,,,,,,,,,
+1002,,,,,,black,0,34,,,,,,,,
+1003,,,,,,blue,0,34,,,,,,,,
+1004,,,,,,colorless,0,31,,,,,,,,
+1005,,,,,,Creatures,71,,,,,,,,,
+1006,,,,,,Enchantments,13,,,"HALVING HEALTH OR SMTH
+BRAINWASHING
+NEGATIVE EFFECTS ON PLAYER NOT CREATURE
+DONATE FEATURE ON GIVING THINGS",,,,,,
+1007,,,,,,green,0,32,,,,,,,,
+1008,,,,,,Instants,33,,,,,,,,,
+1009,,,,,,red,0,35,,,,,,,,
+1010,,,,,,Sorceries,20,,,,,,,,,
+1011,,,,,,Special Events,18,,,,,,,,,
+1012,,,,,,white,0,35,,,,,,,,
+1013,,,,,,,,,,,,,,,,
+1014,,,,,CMC,0,3,,,,,,,,,
+1015,,,,,,1,22,,,,,,,,,
+1016,,,,,,2,26,,,,,,,,,
+1017,,,,,,3,37,,,,,,,,,
+1018,,,,,,4,22,,,,,,,,,
+,[Product],,,black,,,,,,,,,,,,
+,Carthage,,,blue,,,,,,,,,,,,
+,Crystalline Caverns,,,white,,,,,,,,,,,,
+,Farthen Dur,,,black,,,,,,,,,,,,
+,Field of hopes and dreams,,,white,,,,,,,,,,,,
+,Hertsliya Park,,,green,,,,,,,,,,,,
+,HotLand,,,red,,,,,,,,,,,,
+,Hypixel Football,,,green,,,,,,,,,,,,
+,icon fitness,,,red,,,,,,,,,,,,
+,Kill The Mule,,,green,,,,,,,,,,,,
+,Kvish 6,,,white,,,,,,,,,,,,
+,Lands,,,,,,,,,,,,,,,
+,Leshy's Cabin,,,black,,,,,,,,,,,,
+,Miilya,,,green,,,,,,,,,,,,
+,Mordor,,,red,,,,,,,,,,,,
+,My Castle Town,,,black,,,,,,,,,,,,
+,Nexus,,,white,,,,,,,,,,,,
+,Ocean that is an ocean,,,blue,,,,,,,,,,,,
+,Operating Systems,,,black,,,,,,,,,,,,
+,Parker,,,green,,,,,,,,,,,,
+,Rome,,,white,,,,,,,,,,,,
+,Rosto,,,red,,,,,,,,,,,,
+,Seven Star Mall,,,blue,,,,,,,,,,,,
+,space fitness,,,blue,,,,,,,,,,,,
+,The Nether,,,red,,,,,,,,,,,,
+,The Paths,,,white,,,,,,,,,,,,
+,The Valley,(house basement),,blue,,,,,,,,,,,,
+,Tip Tov,,,green,,,,,,,,,,,,
+,Total War,,,red,,,,,,,,,,,,
+,Wrong Nexus,(league nexus),,blue,,,,,,,,,,,,
+,Zaun,,,black,,,,,,,,,,,,
+,,,,,,9,0,,,,,,,,,
+,,,,,,10,0,,,,,,,,,
+,,,,,,7,2,,,Food,,,,,,
+,,,,,,8,2,,,Weapon,,,,,,
+,,,,,,6,6,,,Treasure,,,,,,
+,,,,,,5,26,,,Elephant Token,,,,,,
+,,,,,,6 black,,,,,,,,,,
+,,,,,,6 blue,,,,,,,,,,
+,,,,,,6 green,,,,,,,,,,
+,,,,,,6 red,,,,,,,,,,
+,,,,,,6 white,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,All lands are legendary,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,Icons,,,,,,,,
