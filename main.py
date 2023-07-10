@@ -12,9 +12,11 @@ def createPages():
     y = 0
     currentPageIndex = 0
     cardsOnPage = 0
+    totalCards = 0
     fullPage = Image.new(mode="RGB", size=pageDims, color=(255, 255, 255))
     for cardFilePath, numCopies in cardData.items():
-        with Image.open(f"{baseFilePath}images\\{cardFilePath}.png") as rawCard:
+        try:
+            rawCard = Image.open(f"{baseFilePath}images\\{cardFilePath}.png")
             card = rawCard.resize(cardDimsOnPage)
             for c in range(numCopies):
                 fullPage.paste(card, (x * cardDimsOnPage[0], y * cardDimsOnPage[1]))
@@ -25,15 +27,23 @@ def createPages():
                     y += 1
 
                 cardsOnPage += 1
+                totalCards += 1
                 if cardsOnPage == 9:
-                    print(currentPageIndex)
                     fullPage = SavePage(fullPage, currentPageIndex)
-                    x = 0; y = 0
+                    x = 0;
+                    y = 0
                     cardsOnPage = 0
                     currentPageIndex += 1
+        except:
+            print(f"An image for card #{cardFilePath} couldn't be found.")
+
+
+
 
     if cardsOnPage < 9:
         SavePage(fullPage, currentPageIndex)
+
+    return currentPageIndex + 1, totalCards
 
 def GetSpreadSheetData():
     with open(baseFilePath + "Formatter\\MTGCard\\DOD.csv") as file:
@@ -50,17 +60,14 @@ def ParseNullableInt(string):
     return int(string)
 
 def SavePage(page, currentPageIndex):
-    if currentPageIndex % 5 == 0:
-        print(f"Done creating page {currentPageIndex + 1}")
-
     page.save(f"{baseFilePath}final pages\\page_{currentPageIndex}.png", quality=95)
     return Image.new(mode="RGB", size=pageDims, color=(255, 255, 255))
 
 if __name__ == '__main__':
     print("Running...")
     print("Populating card data from spreadsheet...")
-    # GetSpreadSheetData()
-    cardData = {1: 7, 2: 4, 3: 3}
-    print(f"There are {sum(cardData.values())} cards to print.")
+    GetSpreadSheetData()
+    # cardData = {1: 7, 2: 4, 3: 3}
     print("Creating page images...")
-    createPages()
+    numPages, totalCards = createPages()
+    print(f"... Done! Created {numPages} pages with {totalCards} out of a total of {sum(cardData.values())} total cards on them.")
