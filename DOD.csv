@@ -26,9 +26,9 @@ Costly X (As an additional cost to this spell, sacrifice X treasure tokens)","Bl
 Affinity","Creatures reacting to number of events
 Devotion to players?
 Creatures stopping events from occuring
-More counterspells","More card draw, extending/copying events",359,"For Roey:
+More counterspells","More card draw, extending/copying events",360,410,"For Roey:
 Add subtypes and interaction with subtypes
-Balance number of cards and mana curve in each color",,,
+Balance number of cards and mana curve in each color",,
 -1,,,,,,,,,,,,,,,,
 0,,,,,,,,,,,,,,,,
 1,Unpopular Opinion:,2,{u/b},Common,,Instant,Black,-,-,Destroy target artifact or enchanment unless its controller pays {2}.,IRL,3,,Kill,,
@@ -60,7 +60,7 @@ Worth 1",IRL,2,,,,
 Worth 1",IRL,2,,Minion/Buff,,
 16,Shack strikes back (his farts):,2,{1}{r/g},Common,,Instant,Red/Green,-,-,Destroy attacking creature.,IRL,3,,,,
 17,The Multiverse:,5,{w}{u}{b}{r}{g},Rare,,Sorcery,White/Blue/Black/Red/Green,-,-,"Costly 2
-Prolong each active Event by 1 turn, then start an Event with, ""Lasts 1 turn. Players may sacrifice cards whose converted mana costs are X to search their library for a card with converted mana cost less than or equal to X and put it on the battlefield.""",IRL,2,,,,
+Prolong each active Event by 1 turn, then start an Event with, ""Lasts 1 turn. Players may sacrifice cards whose converted mana costs are X to search their library for a card with converted mana cost less than or equal to X and put it on the battlefield.""",IRL,1,,,,
 18,Hannibal Barca:,5,{2}{g}{g}{g},Rare,Legendary,Creature,Green,2,3,"When Hannibal Barca enters the field, create a 3/4 Green Elephant creature token with, ""{1}{g}{g}: this creature gains trample until end of turn.""
 Sacrifice a Treasure or Food: Cards named Hannibal Barca and all Elephant creatures gain first strike until end of turn.",IRL,1,,,,
 19,Rabid cats:,1,{1},Uncommon,,Creature,Black/Red/Green,1,1,"You must pay {b},{r}, or {g} as Rabid Cats' mana cost.
@@ -108,7 +108,7 @@ Equipped creature gets first strike and, ""{2}: this creature gets +1/+1 until e
 Target creature gains Double Strike until end of turn.",LOL,2,,,,
 43,Welcome To Zaun(siege)/Ekko:,0,{0},,,Creature Egg,Blue/Black,0 / 7,4 / 5,"Pay {3}{u/b}{u/b}{u/b}: Transform Zaun to Ekko. When you do, you may take card from your graveyard and put it into your hand.
 Ekko has {2}{u/b}: Regenerate.",LOL,1,,Minion,,
-44,Jungle Invasion:,3,{2}{b/g},,,Instant - EVENT,Green/Black,-,-,"Lasts 1 rotation
+44,Jungle Invasion:,,,,,SPECIAL EVENT,Green/Black,-,-,"Lasts 1 turn
 {2}: The next creature you cast may be cast as though it has Flash. Any player may activate this ability.",LOL,2,,,,
 45,Inting:,3,{2}{w},Rare,,Enchantment,White,-,-,All creatures target opponent controls must attack this turn.,LOL,2,,,,
 46,FF15:,5,{u/b}{u/b}{u/b}{u/b}{u/b},Mythical,Legendary,Instant,Black/Blue,-,-,Target player loses the game unless they attack with all of their creatures for the next two turns.,LOL,1,,Minion,,
@@ -244,7 +244,7 @@ Each player may tap 2 creatures. Each time the did not, they lose 2 life. If the
 108,Instant Transmission ,1,{w/u},Uncommon,,Instant,White/Blue,,,"Return target permanent to its owner's hand.
 If an Event is occurring, draw a card.",ANIME,3,,,,
 109,Haim,1,{w/r},Mythical,Legendary,Creature,White,1,3,"{2}, sacrifice a Treasure: make a food token. Any player may activate this ability; if that player doesn't control Haim, Haim's controller makes a Treasure. If a card named Haim's Battlecar is on the battlefield, Haim gets +1/+1 and makes 2 food instead.",IRL,1,,,,
-110,Barbeque Bacon Burger,2,{1}{u/r},Rare,,Sorcery,Blue/Red,,,"Create 5 Foods.
+110,Barbeque Bacon Burger,2,{w/r},Rare,,Sorcery,Blue/Red,,,"Create 5 Foods.
 Target player gains control of two.",IRL,3,,Minion,,
 111,Terminator,5,{g}{g}{g}{g}{g},Mythical,,Creature,Green,5,5,"Intimidate
 When Terminator enters the battlefield, create a Weapon.
@@ -265,7 +265,7 @@ Sacrifice a creature you control: Chara gains +2/-2 until end of turn.",,,
 {w/b}: Sans deals 1 damage to target creature or player
 {3}{w/b}, {t}: Create a 2/1 white and black Gaster Blaster artifact token",UNDER,1,,,,
 120,Undyne the Undying,3,{w}{w/u}{w/u},Rare,,Creature,White/Blue,4,2,"Haste, Indestructible",UNDER,1,,,,
-121,Avishai,2,{1}{b},Common,,Creature,Blue,2,2,Tap Avishai: create a Food and return Avishai to its owner's hand,IRL,1,,Buff,,
+121,Avishai,2,{1}{u},Common,,Creature,Blue,2,2,Tap Avishai: create a Food and return Avishai to its owner's hand,IRL,1,,Buff,,
 122,The Name of the Wind,,{2}{w/b}{w/b},Rare,,Instant,White/Red,,,"Each player shuffles their hand into their library and draws that many cards. You draw X cards, where X is how well you know the wind. Put The Name of the Wind X cards from the top or bottom of your library and increase the number of names you know by 1.
 Creatures you control have haste and flying until end of turn.
 ",BOOK,2,,,,
@@ -311,7 +311,7 @@ When a creature you control dies, draw a card or create a Food.
 {9}, {t}: deal 9 damage to target creature.",ROTMG,1,,,,
 142,"VoidDweller, the wanderer",,,Mythical,,Creature,Black,3,6,"Vigilance
 Deathtouch",ROTMG,1,,Minion,,
-143,Out of the Hat,1,{u},Common,,,,,,Shuffle target player's library. Draw a card.,ROEY,3,,,,
+143,Out of the Hat,1,{u},Common,,Instant,Blue,,,Shuffle target player's library. Draw a card.,ROEY,3,,,,
 144,Rubber Room,,,,,SPECIAL EVENT,,,,"Lasts 2 turns
 Whenever a creature dies, its controller sacrifices a Food token and creates a 1/1 Black Rat creature token. If they have no Foods, they lose 1 life instead.
 If a creature died this turn, this Event lasts 1 more turn.",ROEY,2,,,,
@@ -334,7 +334,7 @@ After this turn's combat phase, each player may tap a creature to scry 1 or tap 
 153,Trip to Mordor,,,,,SPECIAL EVENT,red,,,"Lasts 2 rotations
 Creatures get +2/-1.
 Enchantments and artifacts are 0/2 creatures with haste in addition to their other types.",TV,2,,,,
-154,Strange Larva,1,{b/g},,,Creature,Green/Black,0,3,"Strange Larva enters the battlefield with 2 time counters on it. At the end of your endstep, remove a time counter from Strange Larva. Then, if it has no time counters on it, transform it.
+154,Strange Larva,1,{b/g},Rare,,Creature,Green/Black,0,3,"Strange Larva enters the battlefield with 2 time counters on it. At the end of your endstep, remove a time counter from Strange Larva. Then, if it has no time counters on it, transform it.
 Strange Larva takes damage in the form of -0/-1 counters.",Inscryption,2,"Mothman: 7/3 Flying
 
 Strange Larva takes damage in the form of -0/-1 counters.",,,
@@ -388,11 +388,15 @@ When Commodus dies, remove any -1/-1 counters placed by Commodus.",IRL,1,,,,
 Say ""11:11"", then put the wall in the center of the battlefield. All other players must stack one of their hands on the card. Each receives damage equal to their place. (I.e. the first loses 1 life, the second loses 2 life, and so on.)",IRL,3,,,,
 172,Haikyuu R34,1,{r},Common,,Instant,red,,,"Tap target creature.
 Return target tapped creature to its owner's hand.",IRL,2,,Nerf,,
-173,Slumber,2,{1}{u/g},,,,Blue/Green,,,Target player or creature cannot attack this turn. They draw a card.,IRL,2,,Buff,,
+173,Slumber,2,{1}{u/g},,,,Blue/Green,,,"Tap target creature. Its controller gains life equal to its power. If an Event is occurring, you may repeat this process.",IRL,2,,Buff,,
 174,Destiny Draw,5,{5},Rare,,Instant,Colorless,,,"Search your library for a card, place it on the battlefield face-down, and shuffle your library. You may cast that card for {X}, where X is its converted mana cost minus: one quarter of the difference between your starting life total and you current life total, rounded up. If you cast it this way and it would enter a graveyard afterwards, put it into exile instead.",IRL,2,,,,
+175,Larva side 2,1,,,,,,,,,,1,,,,
+176,Frisk side 2,1,,,,,,,,,,1,,,,
+177,,,,,,,,,,,,,,,,
+178,,,,,,,,,,,,,,,,
 1001,,,,,,Artifacts,17,,,,,,,,,
 1002,,,,,,black,0,34,,,,,,,,
-1003,,,,,,blue,0,34,,,,,,,,
+1003,,,,,,blue,0,35,,,,,,,,
 1004,,,,,,colorless,0,31,,,,,,,,
 1005,,,,,,Creatures,71,,,,,,,,,
 1006,,,,,,Enchantments,13,,,"HALVING HEALTH OR SMTH
@@ -403,13 +407,13 @@ DONATE FEATURE ON GIVING THINGS",,,,,,
 1008,,,,,,Instants,33,,,,,,,,,
 1009,,,,,,red,0,35,,,,,,,,
 1010,,,,,,Sorceries,20,,,,,,,,,
-1011,,,,,,Special Events,18,,,,,,,,,
+1011,,,,,,Special Events,19,,,,,,,,,
 1012,,,,,,white,0,35,,,,,,,,
 1013,,,,,,,,,,,,,,,,
 1014,,,,,CMC,0,3,,,,,,,,,
-1015,,,,,,1,22,,,,,,,,,
+1015,,,,,,1,24,,,,,,,,,
 1016,,,,,,2,26,,,,,,,,,
-1017,,,,,,3,37,,,,,,,,,
+1017,,,,,,3,36,,,,,,,,,
 1018,,,,,,4,22,,,,,,,,,
 ,[Product],,,black,,,,,,,,,,,,
 ,Carthage,,,blue,,,,,,,,,,,,
